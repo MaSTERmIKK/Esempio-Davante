@@ -1,0 +1,4 @@
+
+
+class esempio:
+    pass
